@@ -1,9 +1,4 @@
 # Team--profile-Generator
-<<<<<<< HEAD
-
-=======
-Unit 10 homework
-
 
 
 Project Description
@@ -14,7 +9,7 @@ Upon launching the app, the user is asked to describe the first member of their 
 
 ## video link 
 
-03.07.2022_18.16.46_REC.mp4
+## 03.07.2022_18.16.46_REC.mp4
 
 
 
