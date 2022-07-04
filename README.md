@@ -9,9 +9,12 @@ Upon launching the app, the user is asked to describe the first member of their 
 
 ## video link 
 
-## 03.07.2022_18.16.46_REC.mp4
 
 
+
+
+
+https://user-images.githubusercontent.com/101309301/177066209-bac117bd-9ab1-40c6-9b34-cc58a36d5f45.mp4
 
 
 
